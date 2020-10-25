@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GPSVelo</string>
+    <string name="mph">mph</string>
+    <string name="distance">D = </string>
+    <string name="time">T = </string>
+    <string name="start">Start</string>
+    <string name="end">End</string>
+</resources>
